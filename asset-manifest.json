@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/reusable-component-demo/static/js/main.f9578682.chunk.js",
+    "main.js.map": "/reusable-component-demo/static/js/main.f9578682.chunk.js.map",
+    "runtime-main.js": "/reusable-component-demo/static/js/runtime-main.d0acf80d.js",
+    "runtime-main.js.map": "/reusable-component-demo/static/js/runtime-main.d0acf80d.js.map",
+    "static/css/2.13377647.chunk.css": "/reusable-component-demo/static/css/2.13377647.chunk.css",
+    "static/js/2.545fbb9a.chunk.js": "/reusable-component-demo/static/js/2.545fbb9a.chunk.js",
+    "static/js/2.545fbb9a.chunk.js.map": "/reusable-component-demo/static/js/2.545fbb9a.chunk.js.map",
+    "index.html": "/reusable-component-demo/index.html",
+    "precache-manifest.8dff95d3ee9545ca686fee638fff56d0.js": "/reusable-component-demo/precache-manifest.8dff95d3ee9545ca686fee638fff56d0.js",
+    "service-worker.js": "/reusable-component-demo/service-worker.js",
+    "static/css/2.13377647.chunk.css.map": "/reusable-component-demo/static/css/2.13377647.chunk.css.map",
+    "static/js/2.545fbb9a.chunk.js.LICENSE": "/reusable-component-demo/static/js/2.545fbb9a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0acf80d.js",
+    "static/css/2.13377647.chunk.css",
+    "static/js/2.545fbb9a.chunk.js",
+    "static/js/main.f9578682.chunk.js"
+  ]
+}
